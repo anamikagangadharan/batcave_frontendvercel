@@ -100,7 +100,7 @@ function FAQ() {
                     <div>Membership is valid for two years from the date of purchase. Renewal fee is ₹1499 INR, except for Batcave OG members who enjoy lifetime membership.</div>
 
                     <div>6. How can I attend local meetups and special events?</div>
-                    <div>All members can attend.... local meetups, and details about special events will be communicated through official channels and through our virtual garage. </div>
+                    <div>All members can attend local meetups, and details about special events will be communicated through official channels and through our virtual garage. </div>
 
                     <div>7. How do I earn discounts on products and services?</div>
                     <div>Discounts are provided based on the points you accumulate through interactions with the club. Every interaction earns you points.</div>
