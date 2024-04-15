@@ -9,7 +9,7 @@ function Count() {
     const [seconds, setSeconds] = useState(0);
     const [countdownOver, setCountdownOver] = useState(false);
 
-    const targetDate = new Date("2024-05-01T10:00:00").getTime();
+    const targetDate = new Date("2024-04-24T10:00:00").getTime();
 
     useEffect(() => {
         const interval = setInterval(() => {
